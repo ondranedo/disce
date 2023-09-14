@@ -1,2 +1,2 @@
 # disce
-Učení a další...
+Dokumenty, Prezentace a poznámky 
