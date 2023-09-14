@@ -3,10 +3,11 @@
 ## RTOS-GPOS a RT-RTX
 
 ## Názvosloví
-	**Task-Úloha** - Soubor programových instrukcí
-	**Thread-Vlákno **- jednotka CPU, má vlastní „program counter“ a „stack“
+**Task-Úloha** - Soubor programových instrukcí
 
-	**Process-Proces** - Jeden počítačový program,
+**Thread-Vlákno** - jednotka CPU, má vlastní „program counter“ a „stack“
+
+**Process-Proces** - Jeden počítačový program,
 	
 *Note: V ****RTOS**** je často zaměňován výraz Task a Thread, mohou být považována za synonyma.*
 
