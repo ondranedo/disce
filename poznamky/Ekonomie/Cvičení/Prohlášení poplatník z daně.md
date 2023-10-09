@@ -20,6 +20,3 @@ Příjem 10.000,-
 DPFO 15% 1.500,-
 Čistá mzda je 8.500,-
 
-
-
-![Prohlášení-poplatník-z-daně-0-5457_26.pdf](attachments/Prohlášení-poplatník-z-daně-0-5457_26.pdf)

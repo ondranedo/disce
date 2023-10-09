@@ -1,3 +1,0 @@
-# Počítání DPP
-
-## Počítání DPP
