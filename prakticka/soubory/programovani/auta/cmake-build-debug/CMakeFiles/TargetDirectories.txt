@@ -1,3 +1,0 @@
-C:/vyuka/4/B/nedojedly/2023-09-13/auta/cmake-build-debug/CMakeFiles/auta.dir
-C:/vyuka/4/B/nedojedly/2023-09-13/auta/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/vyuka/4/B/nedojedly/2023-09-13/auta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
