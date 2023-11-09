@@ -31,8 +31,11 @@
   2. **SOFT** - Pokud vyprší deadline, je možnost úlohu ještě dokončit
 - Průmyslové aplikace: Robotika, letecký průmysl, …
 - Velmi jednoduchý návrh OS - rychlost, determinismus
-- OChrana proti selhání
+- Ochrana proti selhání
 - Vyžaduje pokročilé plánování a správu paměti
+- Zdánlivý multitasking
+- Sdílení zdrojů
+- Problémy se [super smyčkou](z00_rtos_gpos_rt-rtx.md)
 
 ## EOS
 
@@ -42,3 +45,4 @@
 - Limitované zdroje
 - Deterministický a predikovatelný
 - Co není podstatné: GUI, bezpečnost, [závisí na užití]
+- 
