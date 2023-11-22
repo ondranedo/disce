@@ -1,3 +1,4 @@
+\
 
 # Způsoby komunikace a Topologie v sítích
 

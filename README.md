@@ -7,5 +7,5 @@
 |Cesta|Účel|
 |-----|----|
 |/poznamky|Poznámky ohledně určitých témat|
-|/zdrojove_kody|Zdrojové kódy, přiklady z různých odvětví|
-|/zdroje|Obsahuje užitečné zdroje jako: `.chm` soubory, prezentace a další|
+|/prakticka|Zdrojové kódy, přiklady z různých odvětví|
+|/zdroje|Obsahuje užitečné zdroje jako: `.chm` soubory, prezentace, protokoly|

@@ -36,7 +36,8 @@
 - Zdánlivý multitasking
 - Sdílení zdrojů
 - Problémy se [super smyčkou](z00_rtos_gpos_rt-rtx.md)
-
+		- [005_keil_rtx4](005_keil_rtx4)
+	
 ## EOS
 
 **E**mbedded **OS**

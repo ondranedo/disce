@@ -1,7 +1,8 @@
 # Umělecké směry
 
 ## Antika (1. tisíc. př.n.l. - 5. st. A.D.)
-- **kalokagathea**, soulad  těla a duše, preferuje člověka
+
+- **kalokagathia**, soulad  těla a duše, preferuje člověka
 - **Ovidius**, psal elegie, tristija
 - **Plautus**, představitel římské komedie
   - _Komedie o hrnci_
@@ -16,7 +17,6 @@
 - absence nahoty
 
 ### Románský styl 
-
 ### Gotika
 
 ## Renesance (13. st. - 17. st.)
@@ -30,17 +30,17 @@
 - **Cervantes**
   - _Don Chichot_, snílek, považován za idiota
   - ideální typ člověka, mimo realitu
-- **Boccaccoi**
+- **Giovanni Boccaccio**
   - zakladatel novely
   - _Dekameron_
-- **Vilon**
-  - Vilonská balada, literární žánr
+- **Vilion**
+  - Vilionská balada, literární žánr
   - Prokletý básník
 - konec renesance; 30. letá válka
 
 ### Humanismus
 
-- vědecký směr, náuka
+- vědecký směr, nauka
 - knihtisk
 
 ## Baroko (17. st. - 18. st.)

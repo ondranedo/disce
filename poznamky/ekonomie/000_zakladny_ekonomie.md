@@ -10,6 +10,3 @@
 - Studuje a vysvětluje chováni jednotlivých ekonomických jednotek
 - Zabývá se tím co určuje výrobu jedné firma či odvětví
 - Jak rozdělují domácnosti své důchodu(= příjmy) na úspory a spotřebu
-
-## Zdroje
-
