@@ -26,16 +26,18 @@
 - úpad církve
 - umělecký směr
 - v českých zemích až v dobách husitských
-- **Shakespear**
+- **Shakespear** 
+	- anglická renesance
+	- Alžběta I
 - **Cervantes**
-  - _Don Chichot_, snílek, považován za idiota
-  - ideální typ člověka, mimo realitu
+	- _Don Chichot_, snílek, považován za idiota
+	- ideální typ člověka, mimo realitu
 - **Giovanni Boccaccio**
-  - zakladatel novely
-  - _Dekameron_
+	- zakladatel novely
+	- _Dekameron_
 - **Vilion**
-  - Vilionská balada, literární žánr
-  - Prokletý básník
+	- Vilionská balada, literární žánr
+	- Prokletý básník
 - konec renesance; 30. letá válka
 
 ### Humanismus
@@ -46,4 +48,9 @@
 ## Baroko (17. st. - 18. st.)
 
 - po 30. leté válce lidé hledají klid a smír v kostele
+-
+
+## Klasicismus (2. pol. 17. st. )
+- Vzniká ve Francii za Ludvíka XIV
+- V 18. století se rozšiřuje po celé Evropě
 - 

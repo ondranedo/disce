@@ -6,3 +6,4 @@
 - Reálná x nominální mzda
 - Nabídka x Poptávka
 - Substitut x komplement
+ 
