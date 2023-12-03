@@ -52,7 +52,7 @@
 ## RT-RTX
 > **R**eal **T**ime **eX**ecution
 
-[[004_non_gpos]]
+[[non_gpos]]
 
 - RTOS operační systém pro ARM Cortex-M zařízení
 - Možnost až 254 priorit

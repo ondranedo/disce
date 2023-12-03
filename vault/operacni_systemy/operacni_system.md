@@ -30,7 +30,7 @@
 - Uživatelské a systémové aplikace
 - Instance běžícího programu - možnost aby ve stejném čase bylo spuštěno více procesů
 - Nezávislé paměťové místo
-- Plánováni [[005_planovaci_algoritmy]]
+- Plánováni [[planovaci_algoritmy]]
 - Komunikace mezi procesy [[xxx_ipc]]
 - concurrency
 

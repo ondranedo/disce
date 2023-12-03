@@ -3,9 +3,9 @@
 ![[proces_runtime.png]]
 ![[proces_runtime2.png]]
 ## New / Created
-- Proces je vytvořen s PCB [[002_pcb]]
+- Proces je vytvořen s PCB [[pcb]]
 - Jsou inicializovány registry, stack, ...
-- Proces čeká na zařazení do fronty **Ready** dlouhodobým plánovačem [[004_dlouhodoby_planovac]]
+- Proces čeká na zařazení do fronty **Ready** dlouhodobým plánovačem [[dlouhodoby_planovac]]
 	- U **GPOS** automaticky schváleno
 	- **RTOS** mohou zdržovat schválení [[xxx_rtos]]
 ## Ready 
