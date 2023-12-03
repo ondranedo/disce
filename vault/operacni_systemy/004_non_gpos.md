@@ -1,3 +1,4 @@
+#anki #todo
 # NON GPOS
 
 > **GPOS** - General purpose operating system
@@ -18,7 +19,7 @@
   ![[distribute_os.png]]
   
 ## RTOS
-#RTOS
+
 - Systém reálného času
 - Dva základní typy:
 1. **HARD** - Úlohy musí být dokončeny v určitém čase

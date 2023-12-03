@@ -1,3 +1,4 @@
+#delete
 # RTOS-GPOS a RT-RTX
 
 ![[superloop_vs_rtos.png]]
@@ -34,9 +35,8 @@
   
 ![[super_loop.png]]
 ## RTOS
-#RTOS
 > **R**eal **T**ime **O**perating **S**ystems
-> 
+
 - Plánuje úlohy „tasky“ __task
 - Ovladače pro Wifi, Bluetooth, LCD, Led diodes
 - Spravuje „resourcy“

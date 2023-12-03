@@ -18,10 +18,5 @@
 
 ## Média
 
-- Jsou uloženy v příslušné složce `images`, `videos`, `music`
-- Užít formát: `000_[název].[formát]`
-- Číslováni je prováděno dle přidání souboru.
+- Jsou uloženy ve složce `attachments`
 
-## Další data
-
-- Vyžaduje-li téma další soubory (zdrojový kód, prezentace, tabulky, ...), a téma není v separované složce, vytvoří se pro téma nová složka.

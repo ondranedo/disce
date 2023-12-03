@@ -1,3 +1,4 @@
+#todo #anki #delete 
 # Windows server příkazy
 
 ## Prodloužení licence

@@ -1,20 +1,18 @@
+#anki
 # Kernel
-- Monolitické
-- Mikro/Nano
-- Hybridní
-- EXO
-
+- jádro
 ![[kernel.png]]
-## Monolitické
+
+## Monolitické jádro
 - Tradiční struktura OS
 - Jeden program obsahuje celý kód jádra a poskytuje všechny služby OS
 - Systémová volání
 - Rychlé a efektivní
 - Méně přenositelné a těžké na údržbu
-- Malé chyby dokáži shodit celý systém
+- Malé chyby dokážou shodit celý systém
 - Unix a podobné OS
 
-## Mikro
+## Mikro jádro
 - Minimální jádro
 - Zjednodušený návrh jádra - pouze privilegovaný režim
 - Delegace části jádra na (deamons, servers) - moduly
@@ -23,7 +21,23 @@
 - Rychlé nasazení, jednoduchá údržba
 - Větší paměťová stopa
 - Časté přepínání kontextu
+- bezpečnější
 
 ## Hybridní řešení
 - Snaha o jádro co nejmenší, však má i důležité komponenty
 - Moderní komerční OS
+
+## EXO jádro
+![[exo.png]]
+- experimentální 
+- přímá komunikace SW s HW
+	- programy provádí vlastní paměťovou alokaci
+- vyvíjen MIT
+
+## NANO
+- podobné EXO jádru
+- modulovatelné
+- malý kód
+	- bezpečnější, méně bugů
+- lehce přenositelné
+- malá funkcionalita

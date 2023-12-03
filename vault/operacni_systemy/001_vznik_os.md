@@ -1,4 +1,5 @@
 # Vznik OS
+#anki
 ## Počítače bez OS
 - Manuální přes programů pomocí přepínačů, drátů, …
 - Primitivní rozhraní

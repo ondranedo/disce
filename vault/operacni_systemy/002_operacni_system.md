@@ -1,3 +1,4 @@
+#anki #todo
 # Operační systém
 - OS zajišťuje abstrakci pro různorodý hardware
 - Hardware je velice specifický, plný různých záludností
@@ -29,15 +30,15 @@
 - Uživatelské a systémové aplikace
 - Instance běžícího programu - možnost aby ve stejném čase bylo spuštěno více procesů
 - Nezávislé paměťové místo
-- Plánováni
-- Komunikace mezi procesy
+- Plánováni [[005_planovaci_algoritmy]]
+- Komunikace mezi procesy [[xxx_ipc]]
 - concurrency
 
 ## Organizace paměti
 - Podpora multiprogramování
 - Sdílení dat mezi procesy
-- Stránkování
-- Virtuální paměť - použití externí paměti
+- Stránkování [[xxx_strankovani]]
+- Virtuální paměť - použití externí paměti [[xxx_virtualni_pamet]]
 - **Soubor** - abstrakce pro kvantum dat
 - FAT, NTFS, EXTČ
 - Kopírování, vytvoření, mazání, uložení

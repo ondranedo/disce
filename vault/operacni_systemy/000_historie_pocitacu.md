@@ -1,4 +1,5 @@
 # Historie počítačů
+#anki #refactor
 ## Osa počítačů
 ### Abacus
 ### John Napier

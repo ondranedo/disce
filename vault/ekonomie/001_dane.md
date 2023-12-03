@@ -25,3 +25,15 @@
 > **Daňový bonus** - stát za dítě vrací **peníze**
 
 
+# Metoda výpočtů výdaje tzv. % z příjmů
+## Řemeslná 
+- 80% z příjmů
+
+## Volná vázaná
+- 60% z příjmů
+
+## Svobodná povolání
+- 40% z příjmů
+
+## Příjmy z pronájmu
+- 30% z příjmů
