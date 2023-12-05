@@ -1,0 +1,27 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{\numberline {1}Preambule}{1}{}%
+\contentsline {chapter}{\numberline {2}Podnikateslý záměr}{3}{}%
+\contentsline {section}{\numberline {2.1}Vstupní profil}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}Charakterizování subjektu}{3}{}%
+\contentsline {subsubsection}{Název firmy}{3}{}%
+\contentsline {subsubsection}{Sídlo}{3}{}%
+\contentsline {subsubsection}{Identifikační číslo}{3}{}%
+\contentsline {subsubsection}{Plátce DPH}{3}{}%
+\contentsline {subsubsection}{Datum zahájení činnosti podnikání}{3}{}%
+\contentsline {subsubsection}{Obor podnikání}{3}{}%
+\contentsline {subsection}{\numberline {2.1.2}Profesní a osobní údaje zakladatelů}{4}{}%
+\contentsline {section}{\numberline {2.2}Založení firmy}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Právní forma}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}Velikost základního kapitálu}{4}{}%
+\contentsline {section}{\numberline {2.3}Marketing}{5}{}%
+\contentsline {subsection}{\numberline {2.3.1}Průzkum trhu}{5}{}%
+\contentsline {subsubsection}{Odvětví působnosti}{5}{}%
+\contentsline {subsection}{\numberline {2.3.2}Marketingový mix}{6}{}%
+\contentsline {subsubsection}{Produkt}{6}{}%
+\contentsline {subsubsection}{Cena}{6}{}%
+\contentsline {subsubsection}{Propagace}{6}{}%
+\contentsline {subsubsection}{Distribuce}{6}{}%
+\contentsline {subsection}{\numberline {2.3.3}SWOT Analýza}{7}{}%
+\contentsline {section}{\numberline {2.4}Organizační a personální zajištění}{7}{}%
+\contentsline {section}{\numberline {2.5}Finanční plán}{8}{}%
+\contentsline {section}{\numberline {2.6}Závěr}{9}{}%
