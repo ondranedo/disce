@@ -10,3 +10,4 @@
 |exempla|Zdrojové kódy, přiklady z různých odvětví|
 |utile|Obsahuje užitečné zdroje jako: `.chm` soubory, prezentace, protokoly|
 |exitus|Přímé věci k maturitě|
+|labor|Práce/Projekty|
