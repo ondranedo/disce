@@ -31,14 +31,14 @@
 - Instance běžícího programu - možnost aby ve stejném čase bylo spuštěno více procesů
 - Nezávislé paměťové místo
 - Plánováni [[planovaci_algoritmy]]
-- Komunikace mezi procesy [[xxx_ipc]]
+- Komunikace mezi procesy [[ipc]]
 - concurrency
 
 ## Organizace paměti
 - Podpora multiprogramování
 - Sdílení dat mezi procesy
-- Stránkování [[xxx_strankovani]]
-- Virtuální paměť - použití externí paměti [[xxx_virtualni_pamet]]
+- Stránkování [[strankovani]]
+- Virtuální paměť - použití externí paměti [[virtualni_pamet]]
 - **Soubor** - abstrakce pro kvantum dat
 - FAT, NTFS, EXTČ
 - Kopírování, vytvoření, mazání, uložení

@@ -6,14 +6,14 @@
 - efektivnější je přepnutí uživatelských vláken; netřeba mazat **TLB**
 ## Kontext
 - Uložení **PCB** při přepnutí kontextu [[pcb]]
-- **L1** a **TLB** Cache v CPU lze zařadit do přepnutí kontextu [[xxx_strankovani]]
+- **L1** a **TLB** Cache v CPU lze zařadit do přepnutí kontextu [[strankovani]]
 	- obsah není kopírován, je pouze zneplatněn
 
 ### Kdy dojde k přepnutí kontextu
 - **Chyba**
-- **ISR** - IO [[xxx_inetrrup_service_routine]]
+- **ISR** - IO [[inetrrup_service_routine]]
 	- obsluha přerušení
-- **DMA** - direct memory acces [[xxx_dma]]
+- **DMA** - direct memory acces [[dma]]
 - Plánování dle algoritmů: [[planovaci_algoritmy]]
 
 > Meltdown, Specter HW chyba

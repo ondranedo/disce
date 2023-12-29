@@ -44,5 +44,8 @@
 - po 30. leté válce lidé hledají klid a smír v kostele
 
 ## Klasicismus (2. pol. 17. st. )
-- Vzniká ve Francii za Ludvíka XIV
+- Vzniká ve Francii za Ludvíka XIII a IV
 - V 18. století se rozšiřuje po celé Evropě
+- Probíha během 30 leté války
+- inspiruje se antikou
+- [[moliere]]

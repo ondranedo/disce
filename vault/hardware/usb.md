@@ -1,3 +1,4 @@
+#refactor #anki
 # USB
 - Univerzální sériová linka
 - Navrženo pro sjednocení propojovacích zařízení

@@ -1,5 +1,5 @@
 # Historie počítačů
-#anki #refactor
+#refactor
 ## Osa počítačů
 ### Abacus
 ### John Napier
@@ -36,7 +36,7 @@
 
 ### 1890
 - Kongres USA vyhlásil soutěž na systém zpracování sčítání lidu
-- Vítězí *Herman Hollerith* s tabelačními stroji
+- Vítězí *Herman Hollerith* tabelačními stroji
 
 ### 1925
 - Rockefellerova nadace vytváří největší počítací stroj své doby
@@ -60,7 +60,7 @@
 - Základ Complex Number Calculator (později Bell Labs Model 1)
 
 ### 1940-1944
-- Collosus je sestaven a uveden do provozu
+- Colossus je sestaven a uveden do provozu
 - Transferován do USA jako Harvard Mark I
 
 ### 1943-1945
@@ -74,7 +74,7 @@
 > porovnat architektury Von Neumann vs Harvard, maturita
 
 ### 1947
-- William Shockley a John Bardeen a Walter Brattain objevili princip rezistoru
+- William Shockley a John Bardeen a Walter Brattain objevili princip tranzistoru
 - Základ počítačů druhé generace
 > Tyranie čísel
 
@@ -85,19 +85,19 @@
 ### 1952-1953
 - SAPO
 - Firma IBM, stává se vedoucí firmou v počítačové technice
-- Programátoři museli znít počítačový hardware do detailu
+- Programátoři museli znát počítačový hardware do detailu
 
 ### 1954
 - Firma RAND Corp. udělala model počítače jak by vypadal roku 2004
 
 ### 1956
-- John McCarthy (jazyk LISP) a Marvin Minskz (LOGO) organizují konferenci za pomoci Rockefellerovy nadace
+- John McCarthy (jazyk LISP) a Marvin Minsky (LOGO) organizují konferenci za pomoci Rockefellerovy nadace
 - Jsou definovány základy umělé inteligence
 - Trvá řadu let než byl pojem přijat
 
 ### 1957
 - IBM uvádí na trh diskovou paměť (RAMAC)
-- První vyšší programovací jazyk FORTRAN (FORmula TRANslator)
+- První vyšší programovací jazyk **FORTRAN** (FORmula TRANslator)
 - Probíhá paralelní vývoj řady dalších projektů
 
 ### 1960

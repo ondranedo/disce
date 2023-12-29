@@ -1,3 +1,4 @@
+#anki #todo #refactor 
 # AD Převodník
 
 ## Kaskádové zapojení

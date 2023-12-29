@@ -1,13 +1,29 @@
-#anki #todo
+#todo
 # NON GPOS
 
 > **GPOS** - General purpose operating system
 ## Network operating system
 - Operační systém routerů (síťových prvků)
 - Pro LAN - většinou v korporátních s.
-- Více funkcí než GPOS zaměřených pro komunikaci
 - **Ciso IOS**
-- Peer-To-Peer
+- Dva typy NOS: **Peer-To-Peer** a **Client server**
+### Funkce NOS
+- přidávání a spravování uživatelských účtů
+- spravování přístupu ke zdrojům na síti
+- spravuje komunikaci mezi zařízeními na síti
+- monitoruje a kontroluje síť
+
+### Výhody NOS
+- Více funkcí než GPOS zaměřených pro komunikaci
+- velice stabilní
+- dobrá bezpečnost
+- vzdálená správa sítě 
+- jednoduché rozšíření sítě
+### Nevýhody NOS
+- velice drahé
+- nutná častá správa serveru
+- centrální lokace - porucha
+
 ## Distributed operating system
 - Rozdělen mezi několik zařízení
 - Připojení přes LAN/WAN
@@ -19,7 +35,7 @@
   ![[distribute_os.png]]
   
 ## RTOS
-
+[[rtos]]
 - Systém reálného času
 - Dva základní typy:
 1. **HARD** - Úlohy musí být dokončeny v určitém čase
@@ -31,11 +47,11 @@
 - Zdánlivý multitasking
 - Sdílení zdrojů
 - Problémy se super smyčkou
-[[z00_rtos_gpos_rt-rtx]]
+
 ## EOS
 > **E**mbedded **OS**
 
 - RTOS a EOS není to samé, však EOS je také RTOS
 - Limitované zdroje
 - Deterministický a predikovatelný
-- Co není podstatné: GUI, bezpečnost, [závisí na užití)
+- Co není podstatné: GUI, bezpečnost, (závisí na užití)

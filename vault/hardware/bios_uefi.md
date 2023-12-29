@@ -1,3 +1,4 @@
+#todo #refactor #anki
 # BIOS a UEFI
 
 ![[personal_computer_block.png]]
@@ -31,4 +32,3 @@
 - Obsah editován Sestupem
 
 # UEFI
-#TODO 

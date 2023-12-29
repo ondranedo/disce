@@ -1,3 +1,4 @@
+#refactor #todo
 # CISC, RISC a MIPS
 
 > Complex and Reduced instruction Set Computer

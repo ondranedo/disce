@@ -7,19 +7,19 @@
 - Jsou inicializovány registry, stack, ...
 - Proces čeká na zařazení do fronty **Ready** dlouhodobým plánovačem [[dlouhodoby_planovac]]
 	- U **GPOS** automaticky schváleno
-	- **RTOS** mohou zdržovat schválení [[xxx_rtos]]
+	- **RTOS** mohou zdržovat schválení [[rtos]]
 ## Ready 
 - Proces je zařazen na konec fronty **FIFO**
-- Pomocí dispatcheru (krátkodobý plánovač [[xxx_kratkodoby_planovac]]) je nahrán do procesoru (výměna všech registrů, **PCB**)
+- Pomocí dispatcheru (krátkodobý plánovač [[kratkodoby_planovac]]) je nahrán do procesoru (výměna všech registrů, **PCB**)
 
 ## Running
 - Proces může běžet ve dvou módech:
 
 ### Uživatelský mód
 - Proces nemá přístup k jádru OS
-- Může přistupovat k svým datům a instrukcím
+- Může přistupovat ke svým datům a instrukcím
 - V případě systémového voláni je proces přesunut do **kernel** módu
-	- `open`, `read`, `write`, `exec`, `close`, `fork`, ... [[xxx_systemova_volani]]
+	- `open`, `read`, `write`, `exec`, `close`, `fork`, ... [[systemova_volani]]
 	- Linux má přes 300 syscallů, Windows více než 2000
 
 #### Restrikce
@@ -35,11 +35,11 @@
 ## Waiting
 - I/O operace
 	- Vstup od uživatele do `stdin`
-- jsou spravovány střednědobým plánovačem [[xxx_strednedoby_planovac]]
+- jsou spravovány střednědobým plánovačem [[strednedoby_planovac]]
 ### Blocked
 - Proces může být blokován když se snaží přistoupit ke kritické sekci
 	- Například tiskárna: není připojena, tiskne, ...
-- Blokaci mlže provést **semafor** či **mutex** [[xxx_kriticka_sekce]]
+- Blokaci mlže provést **semafor** či **mutex** [[kriticka_sekce]]
 
 ## Terminated
 - Proces muže být terminován, pokud se dokončí, poslední instrukce, či je explicitně ukončen `KILL` syscallem
@@ -48,5 +48,5 @@
 	- Pokud tak rodič neučiní, terminovaný proces leží v tabulce napořád
 
 ## SWAP varianty
-- proces může být umístěn do SWAP prostoru [[xxx_swap]] je-li rozhodnuto střednědobým plánovačem
+- proces může být umístěn do SWAP prostoru [[swap]] je-li rozhodnuto střednědobým plánovačem
 - většinou jsou do SWAPu umístěny procesy ve frontě **Ready** či **Waiting**

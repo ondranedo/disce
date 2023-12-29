@@ -1,5 +1,4 @@
-
-
+#refactor #anki 
 # Způsoby komunikace
 ## Unicast
 - Komunikace pouze dvou zařízení (server - klient)

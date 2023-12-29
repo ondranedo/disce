@@ -25,7 +25,7 @@
 
 ## Hybridní řešení
 - Snaha o jádro co nejmenší, však má i důležité komponenty
-- Moderní komerční OS
+- Windows NT, XNU
 
 ## EXO jádro
 ![[exo.png]]

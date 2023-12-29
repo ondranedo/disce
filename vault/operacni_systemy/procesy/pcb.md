@@ -1,4 +1,3 @@
-#anki
 # PCB
 ![[pcb.png]]
 - pointry na **STACK**, a **HEAP** (v obrázku tři tečky)
@@ -8,8 +7,8 @@
 - Data procesu můžeme v Linuxu číst ve složce: `/proc/<id procesu>/.`
 	- `/proc/<id procesu>/status` - Stav procesu [[zivot_procesu]]
 ## Další data v PCB
-- v RTOS [[xxx_rtos]], ukládá také časy a priority
-- ISR které proces mohl generovat [[xxx_inetrrup_service_routine]]
-- údaje o virtuální paměti [[xxx_virtualni_pamet]]
-- IPC, data o sdílených prostředcích či komunikační kanály [[xxx_ipc]]
+- v RTOS [[rtos]], ukládá také časy a priority
+- ISR které proces mohl generovat [[inetrrup_service_routine]]
+- údaje o virtuální paměti [[virtualni_pamet]]
+- IPC, data o sdílených prostředcích či komunikační kanály [[ipc]]
 - u některých OS existují kopie PCB - ochrana proti chybám

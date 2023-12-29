@@ -1,11 +1,13 @@
-
+#todo #anki
 # IP Adresy
-#TODO 
 
-```dataview
-TABLE
-file.ctime as Created
-FROM #TODO 
-SORT file.ctime DESC
-```
+- pět tříd IP adres
+
+|třída|oktet|oktet|oktet|oktet|
+|-|-|-|-|-|
+|A|síť|host|host|host|
+|B|Síť|síť|host|host|
+|C|síť|síť|síť|host|
+|D|Vícesměrové vysílání|
+|E|Výzkum|
 
