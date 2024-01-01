@@ -1,13 +1,9 @@
 # Přenos dat, rozdělení pamětí a jejich organizace
 
 
-## Syllabus:
+## TODO:
 
-- Sériový vs paraelní přenos dat;
-- Otevřený kolektor;
-- Třístavový zesilovač;
 - Sběřnice: 
-    - I2C,
     - SPI, 
     - RS 232,
     - IEEE 1284,
@@ -27,13 +23,10 @@
     - QPI,
     - DMA;
 - Paměti:
-    - SRAM,
     - DRAM,
     - ROM,
     - PROM,
     - EPROM,
     - EEPROM,
     - Flash;
-- Parametry paměti;
 - Paměťová mapa;
-- SDR, DDR, QDR;
