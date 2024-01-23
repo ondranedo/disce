@@ -16,7 +16,6 @@
     - RS 485,
     - IEEE 488,
     - RS 232,
-    - FireWire,
     - PATA,
     - SATA,
     - Ethernet,
@@ -24,8 +23,6 @@
     - SCSI,
     - PCI,
     - PCI-E,
-    - QPI,
-    - DMA;
 - Paměti:
     - SRAM,
     - DRAM,
@@ -37,3 +34,7 @@
 - Parametry paměti;
 - Paměťová mapa;
 - SDR, DDR, QDR;
+- 27C220;
+- 51256s/l;
+- 21256;
+- 93C46;
