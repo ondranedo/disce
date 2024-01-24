@@ -20,3 +20,7 @@
 - CMOS;
 - API;
 - DUAL BOOT;
+- Secure boot;
+- UEFI;
+- MBR;
+- GPT;
