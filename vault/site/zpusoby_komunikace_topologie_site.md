@@ -73,3 +73,5 @@
 - Malá režie při malé zátěži
 - Při stoupající zátěži mlže klesat propustnost - opakování přenosu
 - Využití u Ethernetu
+
+## CSMA/CA

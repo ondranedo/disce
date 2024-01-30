@@ -14,7 +14,7 @@
 - NOS;
 - DOS;
 - Stavy procesů;
-- PCB;
+- PCB a TCB;
 - Threading;
 - Přepínání kontexů;
 - Plánovačé;

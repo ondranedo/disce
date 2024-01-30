@@ -25,11 +25,24 @@
     - kde to je,
     - kde jsme se s tím setkali,
     - alternativní název;
-- co je to kritická sekce
+- co je to kritická sekce,
     - proč to je,
-    - jak se odesílají data na LCD v HAL knihovně;
+    - jak se odesílají data na LCD v HAL knihovně,
+        - kde tam dochází ke kritické sekci,
+    - co řeší kritickou sekci;
+- co to je atomická instrukce;
+- co je to semafor,
+    - kde jsme se s ním setkali,
+    - FIFO,
+    - čím se liší mutex od obecného semaforu;
+- co je to přesné střídání, petersonovo řešení;
+- co je to spin-lock, aktivní čekání vs pasivní čekání;
+- co může probudit procesor k činnosti,
+    - IRS, DMA interrupt;
+
 
 ## Struktura monologu:
 - procesy;
 - kritické sekce;
-- 
+- kde se objevuje v HAL knihovně;
+- jak řešit kritickou sekci;
